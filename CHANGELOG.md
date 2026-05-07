@@ -59,3 +59,4 @@
 - **2026-10-24**: refactor: final codebase review, typing verification, and code cleanup
 - **2026-10-24**: chore: publish v1.0.0 production milestone for YieldShift
 - **2026-05-07**: chore: initialize YieldShift monorepo with ml-service and frontend
+- **2026-05-07**: feat(config): configure vite, postcss, and eslint tooling matrix
