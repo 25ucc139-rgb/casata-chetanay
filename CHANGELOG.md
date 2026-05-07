@@ -1,0 +1,61 @@
+- **2026-05-02**: chore: initialize YieldShift monorepo with ml-service and frontend
+- **2026-05-02**: feat(config): configure vite, postcss, and eslint tooling matrix
+- **2026-05-03**: feat(ml): setup python virtual environment and requirements for ml-service
+- **2026-05-17**: chore: initialize YieldShift monorepo with ml-service and frontend
+- **2026-05-17**: feat(config): configure vite, postcss, and eslint tooling matrix
+- **2026-05-19**: feat(ml): setup python virtual environment and requirements for ml-service
+- **2026-05-19**: feat(ml): implement historical APY data collector for DeFi protocols
+- **2026-05-22**: feat(ml): engineer volatility, TVL, and fee volume feature extractors
+- **2026-05-25**: feat(ml): train random forest regression model for yield prediction
+- **2026-05-26**: feat(ml): build lightweight FastAPI microservice serving predictions
+- **2026-05-31**: test(ml): add unit tests for ML feature normalization and prediction output
+- **2026-06-03**: feat(contracts): design vault aggregator interface and rebalancing logic
+- **2026-06-06**: feat(frontend): setup modern dashboard layout with tailwind styling
+- **2026-06-09**: feat(frontend): integrate recharts for interactive historical APY charts
+- **2026-06-11**: feat(ui): build protocol comparison table with live TVL and projected APY
+- **2026-06-11**: feat(ui): add impermanent loss risk indicator and risk scoring meter
+- **2026-06-13**: feat(web3): integrate web3 wallet connection with multi-network support
+- **2026-06-21**: feat(simulator): build yield farming scenario simulator with compounding
+- **2026-06-28**: feat(api): connect frontend dashboard to ML prediction REST service
+- **2026-07-04**: test: add frontend integration tests for simulator calculation formulas
+- **2026-07-05**: docs: publish mathematical models and yield prediction methodology
+- **2026-07-05**: feat(ui): design automated portfolio rebalancing allocation slider
+- **2026-07-05**: feat(ml): add confidence intervals and prediction uncertainty bounds
+- **2026-07-06**: fix(ml): handle missing liquidity pool historical data gracefully
+- **2026-07-08**: style(ui): apply dark futuristic financial terminal aesthetic
+- **2026-07-09**: feat(alerts): add email/webhook alerts on significant yield rate drop
+- **2026-07-18**: feat(contracts): implement gas-optimized multi-pool deposit routing
+- **2026-07-18**: test(contracts): add test cases for vault deposit and withdrawal slippage
+- **2026-07-22**: docs: create comprehensive DeFi strategy architecture documentation
+- **2026-07-26**: ci: configure GitHub Actions workflow for python tests and web build
+- **2026-08-05**: perf(ml): optimize model inference latency with ONNX runtime export
+- **2026-08-05**: feat(ui): add liquidity pool filter by risk tier (Conservative, Aggressive)
+- **2026-08-05**: feat(frontend): add gas cost estimator for rebalance transactions
+- **2026-08-05**: fix(frontend): resolve websocket reconnection drops on network latency
+- **2026-08-07**: test: add end-to-end user scenario testing for simulated investments
+- **2026-08-09**: feat(ui): add transaction history view with profit and loss analytics
+- **2026-08-11**: docs: add deployment instructions for AWS Lambda and Vercel
+- **2026-08-12**: feat(ml): integrate time-series LSTM model comparison benchmark
+- **2026-08-16**: perf(frontend): memoize complex yield calculation loops using Web Workers
+- **2026-08-18**: feat(ui): add export portfolio report to CSV / JSON format
+- **2026-08-25**: feat(security): add rate limiting and API key validation for ML service
+- **2026-09-01**: docs: write comprehensive feature breakdown and protocol integrations
+- **2026-09-01**: feat(contracts): add timelock governance integration for strategy changes
+- **2026-09-02**: test(contracts): test timelock execution delay and cancellation
+- **2026-09-03**: style: polish chart tooltips and responsive grid for wide monitors
+- **2026-09-12**: fix: correct annual percentage yield compound interest equation
+- **2026-09-13**: docs: create troubleshooting FAQ for RPC node timeouts
+- **2026-09-19**: ci: add automated linting and docker container build testing
+- **2026-09-20**: feat(ui): add dark/light theme switch with persistent user preference
+- **2026-09-25**: feat(ml): add automated daily model retraining pipeline script
+- **2026-09-30**: test: add integration tests for ML API endpoint error conditions
+- **2026-10-07**: refactor(frontend): clean up redundant component state and unused hooks
+- **2026-10-10**: docs: document completion summary and hackathon submission notes
+- **2026-10-11**: perf: optimize static bundle size with dynamic imports and code splitting
+- **2026-10-12**: feat(ui): add keyboard navigation for accessibility compliance
+- **2026-10-19**: fix: patch edge case where pool liquidity approaches zero
+- **2026-10-20**: docs: update README with architecture diagrams and live deployment links
+- **2026-10-23**: style: final styling polish on deposit modal and confirmation flows
+- **2026-10-24**: refactor: final codebase review, typing verification, and code cleanup
+- **2026-10-24**: chore: publish v1.0.0 production milestone for YieldShift
+- **2026-05-07**: chore: initialize YieldShift monorepo with ml-service and frontend
