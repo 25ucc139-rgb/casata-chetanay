@@ -60,3 +60,4 @@
 - **2026-10-24**: chore: publish v1.0.0 production milestone for YieldShift
 - **2026-05-07**: chore: initialize YieldShift monorepo with ml-service and frontend
 - **2026-05-07**: feat(config): configure vite, postcss, and eslint tooling matrix
+- **2026-05-08**: feat(ml): setup python virtual environment and requirements for ml-service
