@@ -61,3 +61,4 @@
 - **2026-05-07**: chore: initialize YieldShift monorepo with ml-service and frontend
 - **2026-05-07**: feat(config): configure vite, postcss, and eslint tooling matrix
 - **2026-05-08**: feat(ml): setup python virtual environment and requirements for ml-service
+- **2026-05-15**: feat(ml): implement historical APY data collector for DeFi protocols
