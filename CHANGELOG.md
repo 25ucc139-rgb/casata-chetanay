@@ -65,3 +65,4 @@
 - **2026-05-16**: feat(ml): engineer volatility, TVL, and fee volume feature extractors
 - **2026-05-19**: feat(ml): train random forest regression model for yield prediction
 - **2026-05-22**: feat(ml): build lightweight FastAPI microservice serving predictions
+- **2026-05-24**: test(ml): add unit tests for ML feature normalization and prediction output
