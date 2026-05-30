@@ -66,3 +66,4 @@
 - **2026-05-19**: feat(ml): train random forest regression model for yield prediction
 - **2026-05-22**: feat(ml): build lightweight FastAPI microservice serving predictions
 - **2026-05-24**: test(ml): add unit tests for ML feature normalization and prediction output
+- **2026-05-30**: feat(contracts): design vault aggregator interface and rebalancing logic
