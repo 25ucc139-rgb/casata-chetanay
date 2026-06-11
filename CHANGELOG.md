@@ -69,3 +69,4 @@
 - **2026-05-30**: feat(contracts): design vault aggregator interface and rebalancing logic
 - **2026-06-03**: feat(frontend): setup modern dashboard layout with tailwind styling
 - **2026-06-07**: feat(frontend): integrate recharts for interactive historical APY charts
+- **2026-06-11**: feat(ui): build protocol comparison table with live TVL and projected APY
