@@ -71,3 +71,4 @@
 - **2026-06-07**: feat(frontend): integrate recharts for interactive historical APY charts
 - **2026-06-11**: feat(ui): build protocol comparison table with live TVL and projected APY
 - **2026-06-13**: feat(ui): add impermanent loss risk indicator and risk scoring meter
+- **2026-06-14**: feat(web3): integrate web3 wallet connection with multi-network support
