@@ -76,3 +76,4 @@
 - **2026-06-16**: feat(api): connect frontend dashboard to ML prediction REST service
 - **2026-06-18**: test: add frontend integration tests for simulator calculation formulas
 - **2026-06-20**: docs: publish mathematical models and yield prediction methodology
+- **2026-06-22**: feat(ui): design automated portfolio rebalancing allocation slider
