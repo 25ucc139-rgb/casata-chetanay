@@ -82,3 +82,4 @@
 - **2026-07-03**: style(ui): apply dark futuristic financial terminal aesthetic
 - **2026-07-08**: feat(alerts): add email/webhook alerts on significant yield rate drop
 - **2026-07-10**: feat(contracts): implement gas-optimized multi-pool deposit routing
+- **2026-07-13**: test(contracts): add test cases for vault deposit and withdrawal slippage
