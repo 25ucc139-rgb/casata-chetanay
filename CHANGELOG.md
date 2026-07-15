@@ -83,3 +83,4 @@
 - **2026-07-08**: feat(alerts): add email/webhook alerts on significant yield rate drop
 - **2026-07-10**: feat(contracts): implement gas-optimized multi-pool deposit routing
 - **2026-07-13**: test(contracts): add test cases for vault deposit and withdrawal slippage
+- **2026-07-15**: docs: create comprehensive DeFi strategy architecture documentation
