@@ -86,3 +86,4 @@
 - **2026-07-15**: docs: create comprehensive DeFi strategy architecture documentation
 - **2026-07-15**: ci: configure GitHub Actions workflow for python tests and web build
 - **2026-07-17**: perf(ml): optimize model inference latency with ONNX runtime export
+- **2026-07-21**: feat(ui): add liquidity pool filter by risk tier (Conservative, Aggressive)
