@@ -88,3 +88,4 @@
 - **2026-07-17**: perf(ml): optimize model inference latency with ONNX runtime export
 - **2026-07-21**: feat(ui): add liquidity pool filter by risk tier (Conservative, Aggressive)
 - **2026-07-24**: feat(frontend): add gas cost estimator for rebalance transactions
+- **2026-08-03**: fix(frontend): resolve websocket reconnection drops on network latency
