@@ -91,3 +91,4 @@
 - **2026-08-03**: fix(frontend): resolve websocket reconnection drops on network latency
 - **2026-08-06**: test: add end-to-end user scenario testing for simulated investments
 - **2026-08-09**: feat(ui): add transaction history view with profit and loss analytics
+- **2026-08-15**: docs: add deployment instructions for AWS Lambda and Vercel
