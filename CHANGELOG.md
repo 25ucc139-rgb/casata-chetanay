@@ -96,3 +96,4 @@
 - **2026-08-17**: perf(frontend): memoize complex yield calculation loops using Web Workers
 - **2026-08-18**: feat(ui): add export portfolio report to CSV / JSON format
 - **2026-08-19**: feat(security): add rate limiting and API key validation for ML service
+- **2026-08-24**: docs: write comprehensive feature breakdown and protocol integrations
