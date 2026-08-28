@@ -97,3 +97,4 @@
 - **2026-08-18**: feat(ui): add export portfolio report to CSV / JSON format
 - **2026-08-19**: feat(security): add rate limiting and API key validation for ML service
 - **2026-08-24**: docs: write comprehensive feature breakdown and protocol integrations
+- **2026-08-28**: feat(contracts): add timelock governance integration for strategy changes
