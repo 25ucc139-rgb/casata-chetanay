@@ -100,3 +100,4 @@
 - **2026-08-28**: feat(contracts): add timelock governance integration for strategy changes
 - **2026-08-28**: test(contracts): test timelock execution delay and cancellation
 - **2026-09-05**: style: polish chart tooltips and responsive grid for wide monitors
+- **2026-09-08**: fix: correct annual percentage yield compound interest equation
