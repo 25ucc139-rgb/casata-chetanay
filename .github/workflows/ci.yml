@@ -8,3 +8,5 @@ Updated on July 15, 2026 by Chetanay agarwal.
 
 - Component: `.github/workflows/ci.yml`
 - Purpose: ci: configure GitHub Actions workflow for python tests and web build
+
+<!-- Revision: 2026-09-19 - ci: add automated linting and docker container build testing -->

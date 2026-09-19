@@ -102,3 +102,4 @@
 - **2026-09-05**: style: polish chart tooltips and responsive grid for wide monitors
 - **2026-09-08**: fix: correct annual percentage yield compound interest equation
 - **2026-09-15**: docs: create troubleshooting FAQ for RPC node timeouts
+- **2026-09-19**: ci: add automated linting and docker container build testing
