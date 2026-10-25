@@ -229,5 +229,3 @@ DeFi farmers who want to maximize returns without constantly monitoring yields a
 **Note**: Always DYOR (Do Your Own Research) before making financial decisions. This tool provides recommendations but you should verify all data before executing migrations.
 
 <!-- Revision: 2026-10-24 - chore: publish v1.0.0 production milestone for YieldShift -->
-
-<!-- Revision: 2026-10-23 - docs: update README with architecture diagrams and live deployment links -->
